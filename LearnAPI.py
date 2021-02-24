@@ -3,6 +3,7 @@ https://www.dataquest.io/blog/python-api-tutorial/
 An API, or Application Programming Interface, is a server that you can use to retrieve and send data to using code.
  APIs are most commonly used to retrieve data, and that will be the focus of this beginner tutorial."""
 # make sure you've already installed requests using: pip install requests
+# make sure you've already installed requests using: pip install requests
 import requests
 import json
 from datetime import datetime
